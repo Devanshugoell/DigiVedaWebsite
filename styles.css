@@ -1222,6 +1222,7 @@
 }
 
 .heading-6 {
+  text-align: center;
   color: var(--3rd, #eb0029);
   align-self: start;
   margin: 121px 0 0 27px;
