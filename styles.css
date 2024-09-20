@@ -1568,3 +1568,42 @@
     margin: 10px 0;
   }
 }
+
+/* Css Given by me */
+.indias-first-hyper-local-delivery-startup-for-educational-campuseses
+  .india-first {
+  font-family: Rubik, sans-serif;
+  font-weight: 800;
+  font-size: 48px;
+  color: #000;
+}
+
+.indias-first-hyper-local-delivery-startup-for-educational-campuseses
+  .hyper-local-delivery {
+  font-family: Lobster Two, sans-serif;
+  font-weight: 900;
+  font-size: 56px;
+  color: #eb0029;
+}
+.indias-first-hyper-local-delivery-startup-for-educational-campuseses
+  .startup-for {
+  font-family: Rubik, sans-serif;
+  font-weight: 800;
+  color: #000;
+}
+
+.indias-first-hyper-local-delivery-startup-for-educational-campuseses
+  .educational-campus {
+  font-family: Lobster Two, sans-serif;
+  font-weight: 900;
+  font-size: 56px;
+  color: #eb0029;
+}
+
+/* Css to make the page responsive */
+
+@media screen and (max-width: 600px) {
+  .indias-first-hyper-local-delivery-startup-for-educational-campuseses span {
+    font-size: 2rem;
+  }
+}
